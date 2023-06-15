@@ -1,0 +1,201 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+.main {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background: url("img/db4.jpg");
+}
+.maindiet {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background: url("img/food6.avif");
+  /* opacity: 0.5; */
+}
+
+.faq {
+  background-color: #e2f7fea8;
+  font-family: "Special Elite", cursive;
+  font-size: 23px;
+  /* padding: 10px; */
+}
+
+.question {
+  font-size: 27;
+}
+
+.main2 {
+  width: 100%;
+  height: 100%;
+  background-color: #ffefeb;
+}
+
+.box2 {
+  padding: 25px;
+  margin-left: 204px;
+  width: 68%;
+  text-align: center;
+}
+
+.main3 {
+  margin-top: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: #ffaa956e;
+}
+.main3n {
+  margin-top: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: #d1ff956e;
+}
+.box3 {
+  font-family: "Special Elite", cursive;
+  margin-top: 80px;
+  margin-left: 399px;
+  height: 600px;
+  width: 600px;
+  display: inline-block;
+}
+
+.dbda {
+  font-size: 45px;
+  text-align: center;
+}
+.nothead {
+  font-size: 32px;
+  text-align: center;
+}
+
+.box1 {
+  height: 462px;
+  display: inline-block;
+  margin-top: 75px;
+  width: 81%;
+  background-color: #ffbeb040;
+  padding: 47px 135px;
+  font-family: "Special Elite", cursive;
+}
+#p1 {
+  font-size: 45px;
+}
+.p2 {
+  float: left;
+  width: 589px;
+  font-size: 27px;
+  text-align: justify;
+}
+.img1 {
+  float: right;
+  margin-top: -76px;
+  margin-right: -52px;
+}
+
+.mainn {
+  display: inline-block;
+  margin-top: 73px;
+  margin-left: 365px;
+  background-color: #a7e7ea85;
+  padding: 15px 50px;
+  /* border-radius: 56px; */
+}
+
+.mainndiet {
+  display: inline-block;
+  margin-top: 158px;
+  margin-left: 432px;
+  background-color: #8bd86be3;
+  padding: 15px 50px;
+  border-radius: 56px;
+}
+
+.btn {
+  margin: 0px 9px;
+  color: #ffffff;
+  background-color: #5c5e60;
+  border: none;
+  border-radius: 15px;
+  padding: 4px 19px;
+  padding-top: 10px;
+  font-size: 20px;
+  cursor: pointer; /* to bring the hand*/
+  font-family: "Special Elite", cursive;
+  margin-left: 229px;
+  margin-top: 10px;
+}
+
+.btndiet {
+  margin: 0px 9px;
+  color: #ffffff;
+  background-color: #5c5e60;
+  border: none;
+  border-radius: 15px;
+  padding: 4px 19px;
+  padding-top: 10px;
+  font-size: 20px;
+  cursor: pointer; /* to bring the hand*/
+  font-family: "Special Elite", cursive;
+  margin-left: 160px;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background-color: #5c5e60;
+  color: #ffffff;
+  border: 4px solid #5c5e60;
+}
+.con button {
+  font-size: 17px;
+  display: block;
+  width: 23;
+  margin: 7px auto;
+  padding: 9px 18px;
+}
+.fg input {
+  font-size: 15px;
+  text-align: center;
+  margin: 6px 5px;
+  display: block;
+  width: 248px;
+  padding: 9px 9px;
+  font-family: "Special Elite", cursive;
+  border-radius: 5px;
+  border: 4px solid white;
+  background-color: #de9fc79c;
+}
+
+.fgdiet input {
+  font-size: 15px;
+  text-align: center;
+  margin: 6px 5px;
+  display: block;
+  width: 248px;
+  padding: 9px 9px;
+  font-family: "Special Elite", cursive;
+  border-radius: 5px;
+  border: 4px solid white;
+  background-color: #e75a5a9c;
+}
+
+#head {
+  display: inline-block;
+  text-align: center;
+  padding-right: 17px;
+  padding-left: 24px;
+  color: rgb(0, 0, 0);
+  background-color: #ffffff;
+  padding-top: 9px;
+  padding-bottom: 6px;
+  border-radius: 20px;
+  margin-left: 67px;
+  font-family: "Special Elite", cursive;
+  font-size: 20px;
+}
+td {
+  font-family: "Special Elite", cursive;
+  font-size: 22px;
+}

@@ -1,0 +1,63 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/main.css" type="text/css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="/static/home.css" type="text/css" />
+    <title>Predictor</title>
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="left">
+        <a href="/"><img src="static/img/dia img1.png" alt="" /> </a>
+      </div>
+      <div class="right">
+        <ul class="nav">
+          <li><a href="/home">Home</a></li>
+          <li><a href="/diet">Diet</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/faq">FAQ</a></li>
+        </ul>
+      </div>
+    </header>
+
+    <div class="maindiet">
+      <div class="mainndiet">
+        <p id="head">Please enter the following info!</p>
+        <form method="post" action="predict1">
+          <table>
+            <tr>
+              <td>Age:</td>
+              <td class="fgdiet"><input type="text" name="age" /></td>
+            </tr>
+            <tr>
+              <td>Height:</td>
+              <td class="fgdiet"><input type="text" name="height" /></td>
+            </tr>
+            <tr>
+              <td>Weight:</td>
+              <td class="fgdiet"><input type="text" name="weight" /></td>
+            </tr>
+          </table>
+          <button type="submit" class="btndiet">Predict</button>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

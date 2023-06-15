@@ -1,0 +1,26 @@
+food,quantity,calorie,type
+Strawberry,1,53,Fruit
+Broccoli,1,45,Vegetable
+Broccoli,1,45,Vegetable
+Carrots,1,50,Vegetable
+Cucumber,1,17,Vegetable
+Eggplant,1,35,Vegetable
+Beef,1,142,Protein
+Chicken,1,136,Protein
+Tofu,1,86,Protein
+Egg,1,78,Protein
+Fish,2,136,Protein
+Pork,2,137,Protein
+Shrimp,2,56,Protein
+Cheeseburger,1,250,Carbohydrate
+Hamburger,1,260,Carbohydrate
+Potato,1,40,Carbohydrate
+Rice,1,280,Carbohydrate
+Sandwich,1,240,Carbohydrate
+Milk (Whole),1,146,Drink
+Orange Juice,1 cup,111,Drink
+Apple cider,1 cup,117,Drink
+Dal,1,120,Drink
+Roti,1,80,Carbohydrate
+Rice Fried,1 cup,418,Carbohydrate
+Corn,1 cup,120,Vegetable

@@ -1,0 +1,28 @@
+﻿food,quantity,calorie,type
+Mashed Potatoes,1 cup,235,Carbohydrate
+Green Beans,1 cup,44,Vegetable
+Corn,1 cup,120,Vegetable
+Apple,1,80,Fruit
+Avacado,1,320,Fruit
+Banana,1,101,Fruit
+Grape,1 cup,80,Fruit
+Orange,1,70,Fruit
+Strawberries,1,53,Fruit
+Bean Sprouts,1 cup,37,Vegetable
+Broccoli,1 cup,40,Vegetable
+Cabbage,1 cup,37,Vegetable
+Potato Boiled,1,88,Vegetable
+Rice Brown,1 cup,230,Carbohydrate
+Rice Fried,1 cup,418,Carbohydrate
+Eggplant,1,35,Vegetable
+Chicken,1,136,Protein
+Tofu,1,86,Protein
+Egg,1,78,Protein
+Fish,2,136,Protein
+Pork,2,137,Protein
+Sandwich,1,240,Carbohydrate
+Milk (Whole),1,146,Drink
+Orange Juice,1 cup,111,Drink
+Apple cider,1 cup,117,Drink
+Dal,1,120,Drink
+Roti,1,80,Carbohydrate

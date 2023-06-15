@@ -1,0 +1,94 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    font-family: "Special Elite", cursive;
+  
+  }
+  
+  .new {
+    width: 100%;
+    height: 100%;
+    background: url("img/db5.jpg");
+    background-repeat: no-repeat;
+    color: rgb(0, 0, 0);
+  }
+  
+  
+  .nav li {
+    float: left;
+    list-style: none;
+    font-size: larger;
+  }
+  
+  .nav {
+    display: inline-block;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+  }
+  
+  .nav li a:hover,
+  .nav li a:active {
+    background-color: rgba(255, 255, 255, 0.379);
+  }
+  
+  /* .left {
+    display: inline-block;
+    width: 200px;
+  } 
+  
+  .left img {
+    display: inline-block;
+    width: 160px;
+    padding: 0px 15px;
+    margin-top: 13px;
+  }*/
+  
+  .right {
+    padding-right: 23px;
+    display: inline;
+    float: right;
+  }
+  
+  .header {
+    background-color: rgba(238, 250, 250, 0.137254902);
+    width: 100vw;
+    display: block;
+    position: fixed;
+  }
+  
+  #ad {
+    font-family: "Oswald", sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.82);
+    padding: 48px;
+    display: inline-block; 
+    margin: 151px;
+    height: 306px;
+    width: 420px;
+    background-color: rgb(12 33 37 / 89%);
+    border-radius: -25px;
+  }
+ 
+  .whw {
+    color: #394422;
+    font-family: "Oswald", sans-serif;
+    font-size: 40px;
+  }
+
+  .left {
+    display: inline-block;
+    width: 200px;
+  }
+  
+  .left img {
+    display: inline-block;
+    width: 109px;
+    padding: 0px 29px;
+    margin-top: 6px;
+  }
